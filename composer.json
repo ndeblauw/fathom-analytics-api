@@ -1,11 +1,11 @@
 {
-    "name": "beyondcode/fathom-api",
+    "name": "ndeblauw/fathom-api",
     "description": "Fathom Analytics API",
     "keywords": [
         "beyondcode",
         "fathom-api"
     ],
-    "homepage": "https://github.com/beyondcode/fathom-api",
+    "homepage": "https://github.com/ndeblauw/fathom-analytics-api",
     "license": "MIT",
     "authors": [
         {
